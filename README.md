@@ -1,4 +1,4 @@
-![](https://github.com/kolorobot/spring-boot-junit5/workflows/tests/badge.svg)
+![](https://github.com/franc90/LuhnAlgorithm/workflows/tests/badge.svg)
 
 # LuhnAlgorithm
 Algorytm ten wygląda następująco:
